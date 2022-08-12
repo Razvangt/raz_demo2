@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Raz_demo2</string>
+    <string name="texto">TextView</string>
+    <string name="change_text">Get Advice</string>
+</resources>
